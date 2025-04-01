@@ -1,0 +1,579 @@
+fileFormatVersion: 2
+guid: 9ae2949e33adfa245bbd12636cd88dba
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brick Texture
+    second: {fileID: 2100000, guid: 4a970efa8a4beb245a5c885ff8c21853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cafe Shop interior
+    second: {fileID: 2100000, guid: c5accd40dc781cc4ab552a025232df21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cafe shop
+    second: {fileID: 2100000, guid: 2f23e593869567545a55d1af963ea6be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concreate
+    second: {fileID: 2100000, guid: eb6563176f537e644998fe5f8693b195, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concreate 2
+    second: {fileID: 2100000, guid: 5c64af49cf0be5a469314634bf0233fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hosue 14
+    second: {fileID: 2100000, guid: ddf277b9fc7bd014bae41a6946bf8482, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hosue 40
+    second: {fileID: 2100000, guid: 31affc20c17fb394a8dde2239f5f39c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hotel
+    second: {fileID: 2100000, guid: 55a1d85c4d51c63499e758a638874563, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hotel Accent
+    second: {fileID: 2100000, guid: 2111f09b83d3d574a8ca73b05b24eb6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 10 Accent
+    second: {fileID: 2100000, guid: 0352ea30fb6990a4da64326b001628e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 10_
+    second: {fileID: 2100000, guid: 3748d3e9f3f85a942a79519c0137fec5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 11
+    second: {fileID: 2100000, guid: efaa072890e845449af1ade6c8504f7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 11 Accent
+    second: {fileID: 2100000, guid: fcceda464567aa54599f958481330de9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 12
+    second: {fileID: 2100000, guid: 527c1de8dc72e0a4e961facb54b0deb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 12 Accent
+    second: {fileID: 2100000, guid: c30aa034df2f70c41935e15dfb073bfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 13
+    second: {fileID: 2100000, guid: 46289ed44c7710a4082255598b3589fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 15
+    second: {fileID: 2100000, guid: da19f638b0d56ee4b8a68fedc3fdba0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 16
+    second: {fileID: 2100000, guid: eea5c5e9183be7849ad004ac68e2a0ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 18
+    second: {fileID: 2100000, guid: 8c44928262f19de4fa9bea1222863394, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 19
+    second: {fileID: 2100000, guid: 8f4d3e9747a0d6a49aa65979a75fce76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 19 Accent
+    second: {fileID: 2100000, guid: 31feff67880cb0c4886b745d4337e00e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 2 Base
+    second: {fileID: 2100000, guid: 9f026535446ca9049882657f5c21bc72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 20
+    second: {fileID: 2100000, guid: b1d563eacb06f4f448335e223ca1e865, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 21
+    second: {fileID: 2100000, guid: 246f9601783379441837103c73719fab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 21 Accent
+    second: {fileID: 2100000, guid: 9be0a72f021369f4fa2b674071f06370, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 22
+    second: {fileID: 2100000, guid: 4222ab3352aeb8f49a19171d8974adf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 22 Accent
+    second: {fileID: 2100000, guid: 373bb1cf4e3c56a49a4ce09e83902739, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 23
+    second: {fileID: 2100000, guid: 776472e9332075d42b46b6f6d6652376, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 25
+    second: {fileID: 2100000, guid: 6ec22c00e07b914428526c52a6ce5ffa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 25 Accent
+    second: {fileID: 2100000, guid: 9fcdcddcc6f96974cac8fbe743950d0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 26
+    second: {fileID: 2100000, guid: 0d0c946696897c745a18a8bd3dfc3cc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 26 Accent
+    second: {fileID: 2100000, guid: c5dc410ed19379d4dabc253bbc2b84fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 28
+    second: {fileID: 2100000, guid: 39ce639d9c28189498eec3d8f2bf4a8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 28 Accent
+    second: {fileID: 2100000, guid: b791bf0e164fd7846bf0294e2d29544e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 29
+    second: {fileID: 2100000, guid: f4927b8af5801014387dba7be4068419, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 29 roof
+    second: {fileID: 2100000, guid: f3c50f337f8d1f742a5af30c0d288de9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 3
+    second: {fileID: 2100000, guid: 65953acf3539d0848bbd81aadd2a280d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 3 Accent
+    second: {fileID: 2100000, guid: 4e433f6fa05bc1e4db56dfeb052dc56e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 3 Roof
+    second: {fileID: 2100000, guid: 333290d818e5b8d4cb8354e5a1c469ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 31
+    second: {fileID: 2100000, guid: 29186db461462df4498e46f68e343043, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 31 Accent
+    second: {fileID: 2100000, guid: 767a8f6f2f8994a44a8b41f5d30cb968, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 32
+    second: {fileID: 2100000, guid: 0a9e7e4d3a6af0f4bbdb4aa64fdc7c48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 32 Accent
+    second: {fileID: 2100000, guid: 5bffe7034eb3c454d9c7e3c84aa45d19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 33
+    second: {fileID: 2100000, guid: 0caa1f981ee4db14cb6a6bf388fe1fb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 33 Accent
+    second: {fileID: 2100000, guid: b0ff81a92a50a6e4688c55d5e5e226ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 35
+    second: {fileID: 2100000, guid: b8accf484eabc05499e6664e47a9af83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 35 Accent
+    second: {fileID: 2100000, guid: e8e1482983eff4a469147bfbfcacc3ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 37
+    second: {fileID: 2100000, guid: 151cc753357f8714c95c67e4cea8cc6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 38 Accent
+    second: {fileID: 2100000, guid: 99c2e11ed84350348989fcd5efd2ce54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 4
+    second: {fileID: 2100000, guid: 39cc3f4c5d03f3943b5510be923de6b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 4 Accent
+    second: {fileID: 2100000, guid: 53606fa41de2983489119c9fce723ae9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 4 Metal
+    second: {fileID: 2100000, guid: 0c5b291b971db5e4caf0c224cb587502, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 40 Accent
+    second: {fileID: 2100000, guid: 2bf9b93782bb3354188038600a95ea2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 41
+    second: {fileID: 2100000, guid: 814a11085e8fad7409b5c66f58258d5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 41 Accent
+    second: {fileID: 2100000, guid: 0af2cb67636ca49448ad783be7c1da6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 5
+    second: {fileID: 2100000, guid: ae6200234ea0b0f47b899b54c87bdd14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 5 Accent
+    second: {fileID: 2100000, guid: 7637432159c9cf34e9dc835a2b616577, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 6
+    second: {fileID: 2100000, guid: 455861f32a28b26489cbaeecadcf4a49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 6 Accent
+    second: {fileID: 2100000, guid: 67dd458d245042444803d9d9392a6ca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 7
+    second: {fileID: 2100000, guid: 78858c08f3de49b468387590370a4602, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 7 Marble
+    second: {fileID: 2100000, guid: e3eb537697303c7408725ec49deeeede, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 8
+    second: {fileID: 2100000, guid: 18b93a4e4bba63140af1318befc9f1bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 8 Roof
+    second: {fileID: 2100000, guid: 4534c4e697f4f6146be2545d5bb3c504, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 8 accent
+    second: {fileID: 2100000, guid: 9b310d123679d4c4ba9b8c2a9d5108de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 9
+    second: {fileID: 2100000, guid: bc59bae5894e03a499b7e3db2d1a1d60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House 9 Accent
+    second: {fileID: 2100000, guid: ea3fcc508be031a469e01a7ec1594d29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Market Sign
+    second: {fileID: 2100000, guid: d48268cec5f92cf438e0d9f7c60cb739, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Market Sign Accent
+    second: {fileID: 2100000, guid: ed91aa7b8c89eb546b3b73d99e70dfd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 3e2f434a3ab1e2b41ba2a8c60727881d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 96ca41a83076a334e8b511b491355b5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 874e71393275f31458b481d0b860dbda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 67e5e72251fe9c94b869e6cc9bb5dabd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Park
+    second: {fileID: 2100000, guid: ee0b377db0b48724b80c5d288b3f0978, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Park Accent
+    second: {fileID: 2100000, guid: ea00bfca5d7862545a38b5e2b015acbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plaster accent
+    second: {fileID: 2100000, guid: 35f0093e0a9388445b1c6c5186190ad0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plaster.001
+    second: {fileID: 2100000, guid: 9d8486f25abb7e34a8cde59d92a9fc84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Publci Restroom Roof
+    second: {fileID: 2100000, guid: 87042fa3d26a63c47a89cb1eb719df71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public Restroom Accent
+    second: {fileID: 2100000, guid: adf7aa7b7ad6b1f49987eaefa7276597, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Public restroom
+    second: {fileID: 2100000, guid: ae08b4def73e9e3448256273ae4a0fea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: School
+    second: {fileID: 2100000, guid: f955a3126d29d214fa9cdcf82d1b9508, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: School Gate
+    second: {fileID: 2100000, guid: cae42dc165d00e6429ea552659edc813, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: School Gate Accent
+    second: {fileID: 2100000, guid: 54af8d7ef6beff84188d0b2f9a141582, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schoolgate Metal_
+    second: {fileID: 2100000, guid: a32db42c5c6d73349ba0a7b813638256, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schoolgate accent 2
+    second: {fileID: 2100000, guid: bae5fab88c9915b4585f8ad3008eb8ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: dfc5257c27f9cf244ac87f0ae6cb085a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall 1
+    second: {fileID: 2100000, guid: 4d5d2eb58c2293448a8bb763d649fae1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall 2
+    second: {fileID: 2100000, guid: 55b8e60d181a80f4aa2028b5368ee72e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bare_arm_133
+    second: {fileID: 2100000, guid: a77f7d14e38c0bb4b9745786257923c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cafe Shop roof
+    second: {fileID: 2100000, guid: b6c3929d81e7c884f97442db3b88ab0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: house 38
+    second: {fileID: 2100000, guid: 0615bbc718890ae4987835a859202498, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t_base_fullfinger_glove
+    second: {fileID: 2100000, guid: 9178d3a6699be6e4bafaf1e54af87f7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tm_phoenix_v2_balaclava_variantA
+    second: {fileID: 2100000, guid: a1b8a7c9949dbeb4f95d9c505ebcb6e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tm_phoenix_v2_body_variantE
+    second: {fileID: 2100000, guid: c8f278c85339522419c61636ede0d242, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tm_phoenix_v2_legs_variantB
+    second: {fileID: 2100000, guid: 8b3686079cbc2bb41b0f250d203a1f19, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
